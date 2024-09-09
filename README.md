@@ -1,2 +1,3 @@
-# chaos-mesh-playground
-Chaos Mesh examples that are companions to the SuperOrbital blog post about the tool.
+# Chaos Mesh Demo
+
+These files primarily support the [SuperOrbital blog post](https://superorbital.io/blog/chaos-mesh/) that provides a general overview of [Chaos Mesh](https://chaos-mesh.org/).
